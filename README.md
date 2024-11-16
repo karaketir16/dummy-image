@@ -1,4 +1,4 @@
-### Decyrpt
+### Decrypt
 You need key
 ```bash
 openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -in \
